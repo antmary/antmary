@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antmary
 - 👀 I’m interested in искусственный интелект, нейронные сети, образование
 - 🌱 I’m currently learning Разработчик ИИ
-- 💞️ I’m looking to collaborate on nothing нуе
+- 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me tg @Marinka_Iv
 
 <!---
